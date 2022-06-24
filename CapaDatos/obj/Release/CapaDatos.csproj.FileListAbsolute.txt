@@ -1,0 +1,9 @@
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\bin\Release\CapaModelo.dll
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\bin\Release\CapaModelo.pdb
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaDatos\obj\Release\CapaDatos.pdb

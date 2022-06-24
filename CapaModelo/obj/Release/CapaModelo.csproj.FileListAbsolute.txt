@@ -1,0 +1,6 @@
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\fedec\OneDrive\Escritorio\VentasWeb\ProyectosAMedida\CapaModelo\obj\Release\CapaModelo.pdb
